@@ -1,0 +1,16 @@
+C:\Users\Origin PC\Projects\ExampleProject\bin\Debug\net5.0\ExampleProject.exe
+C:\Users\Origin PC\Projects\ExampleProject\bin\Debug\net5.0\ExampleProject.deps.json
+C:\Users\Origin PC\Projects\ExampleProject\bin\Debug\net5.0\ExampleProject.runtimeconfig.json
+C:\Users\Origin PC\Projects\ExampleProject\bin\Debug\net5.0\ExampleProject.runtimeconfig.dev.json
+C:\Users\Origin PC\Projects\ExampleProject\bin\Debug\net5.0\ExampleProject.dll
+C:\Users\Origin PC\Projects\ExampleProject\bin\Debug\net5.0\ref\ExampleProject.dll
+C:\Users\Origin PC\Projects\ExampleProject\bin\Debug\net5.0\ExampleProject.pdb
+C:\Users\Origin PC\Projects\ExampleProject\obj\Debug\net5.0\ExampleProject.csprojAssemblyReference.cache
+C:\Users\Origin PC\Projects\ExampleProject\obj\Debug\net5.0\ExampleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Origin PC\Projects\ExampleProject\obj\Debug\net5.0\ExampleProject.AssemblyInfoInputs.cache
+C:\Users\Origin PC\Projects\ExampleProject\obj\Debug\net5.0\ExampleProject.AssemblyInfo.cs
+C:\Users\Origin PC\Projects\ExampleProject\obj\Debug\net5.0\ExampleProject.csproj.CoreCompileInputs.cache
+C:\Users\Origin PC\Projects\ExampleProject\obj\Debug\net5.0\ExampleProject.dll
+C:\Users\Origin PC\Projects\ExampleProject\obj\Debug\net5.0\ref\ExampleProject.dll
+C:\Users\Origin PC\Projects\ExampleProject\obj\Debug\net5.0\ExampleProject.pdb
+C:\Users\Origin PC\Projects\ExampleProject\obj\Debug\net5.0\ExampleProject.genruntimeconfig.cache
