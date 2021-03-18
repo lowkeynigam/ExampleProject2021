@@ -40,7 +40,7 @@ namespace ExampleProject {
                 //if true
                 
                 //nested ifs
-                if (total = 1000) {
+                if (total == 1000) {
                     Console.WriteLine("total is greater than 1000");
                 } else {
                     Console.WriteLine("total is less than 1000");            
@@ -50,13 +50,17 @@ namespace ExampleProject {
         }
             //Another way to do it. Same result, different path to get there. Which way is better?
             //total = 2000
-            if (total > 1000) {
+            if (total <= 1000)
+            {
+            }
+            else
+            {
                 Console.WriteLine("total is greater than 1000");
             }
-            if (total = 1000) {
+            if ( total == 1000 ) {
                 Console.WriteLine("total is equal to 1000");
             }
-            if (total < 1000) {
+            if ( total < 1000 ) {
                 Console.WriteLine("total is less than 1000");
             }
         }
